@@ -27,7 +27,10 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 ---
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,blast,canva,ai,ml,dl,llm,html,css,javascript,nodejs,react,django,flask,mysql,postgresql,mongodb,bioconductor" />
+  <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,html,css,javascript,react,nodejs,mongodb" />
+<!--   <img src="https://yourimagehost.com/pdb-logo.png" alt="PDB" width="40" height="40" />
+  <img src="https://yourimagehost.com/chembl-logo.png" alt="ChemBL" width="40" height="40" />
+  <img src="https://en.m.wikipedia.org/wiki/File:US-NLM-NCBI-Logo.svg" alt="NCBI" width="40" height="40" /> -->
 </p>
 
 
