@@ -46,6 +46,12 @@ Currently working on:
  [Fiverr](https://www.fiverr.com/maazkhan141)
 
 
+💌 Email: [maaz28608@gmail.com](mailto:maaz28608@gmail.com)  
+🌐 GitHub: [@HazratMaghaz](https://github.com/HazratMaghaz)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-link/)  
+🔗 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/your_username)  
+
+
 ---
 
 ## 🎯 Goals
