@@ -43,7 +43,7 @@ Currently working on:
 💌 Email: maaz28608@gmail.com  
 🌐 GitHub: [@HazratMaghaz](https://github.com/HazratMaghaz)  
 🔗 LinkedIn [link](https://www.linkedin.com/in/hazrat-maghaz-16a9292b6/)
-![Fiverr](https://www.fiverr.com/maazkhan141)
+ [Fiverr](https://www.fiverr.com/maazkhan141)
 
 
 ---
