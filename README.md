@@ -39,18 +39,13 @@ Currently working on:
 ---
 
 ## 📫 Get in Touch
-
-💌 Email: maaz28608@gmail.com  
-🌐 GitHub: [@HazratMaghaz](https://github.com/HazratMaghaz)  
-🔗 LinkedIn [link](https://www.linkedin.com/in/hazrat-maghaz-16a9292b6/)
- [Fiverr](https://www.fiverr.com/maazkhan141)
-
-
 💌 Email: [maaz28608@gmail.com](mailto:maaz28608@gmail.com)  
 🌐 GitHub: [@HazratMaghaz](https://github.com/HazratMaghaz)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile-link/)  
-🔗 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/your_username)  
-
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hazrat-maghaz-16a9292b6)  
+🔗 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/dromics05) 
+   [![Upwork](https://img.shields.io/badge/Upwork-Profile-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01e6bc6e7cc7407cfc?viewMode=1)  
+   [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://www.facebook.com/hazrat.maghaz.2025/)  
+   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/923490478343)  
 
 ---
 
