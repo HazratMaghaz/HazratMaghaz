@@ -45,7 +45,9 @@ Currently working on:
 - 🔗 [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/dromics05) 
 -  [![Upwork](https://img.shields.io/badge/Upwork-Profile-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01e6bc6e7cc7407cfc?viewMode=1)  
 -  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://www.facebook.com/hazrat.maghaz.2025/)  
--  ![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/923490478343)  
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/923490478343)
+- [![WhatsApp](https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg)](https://wa.me/92300XXXXXXX)
+
 
 ---
 
