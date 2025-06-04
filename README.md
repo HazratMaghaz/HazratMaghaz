@@ -1,6 +1,9 @@
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hazrat+Maghaz;Bioinformatics+%7C+AI+%7C+ML+Enthusiast;NGS+%7C+Drug+Design+%7C+QSAR;Let's+collaborate+and+build+bio-tools!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
 </p>
+
+---
 
 # 👋 Hi, I'm Hazrat Maghaz
 
@@ -10,58 +13,49 @@
 
 ---
 
-## 🧠 Quick Bio
+## 🧠 About Me
 
-- 🏫 Master's in Bioinformatics @ NUST  
-- 🧬 Researcher in Drug Design & Genomics  
-- 💡 Passionate about AI x Biology  
-- 🌍 Freelancer on Fiverr & Upwork  
-- 💻 Loves coding & scientific exploration  
+I'm passionate about using **Bioinformatics + AI** to solve real-world problems. I combine my background in **biochemistry and machine learning** to work on computational biology, genomics, and drug discovery projects.
 
-> *(Edit this section later as you like!)*
+### 🔍 Areas of Focus:
+- 🧬 NGS analysis, RNA-seq & DEG workflows
+- 💊 Pharmacophore modeling, QSAR, and molecular docking
+- 🧠 Applying **Deep Learning** in genomic prediction and protein function
+- 🌐 Web development (WordPress & Shopify-based bio-tools)
+- 🛠️ Building pipelines like **InnoCAAD** for automated drug design
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux" />
+  <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux,Pandas,NumPy,matplotlib,MOE,Gromacs,Grind,Blast,Canva,AI,ML,DL,LLM,Html,Css,JavaScript," />
 </p>
 
 ---
+## 📌 Pinned Projects
 
-## 📌 Featured Project: InnoCAAD (Coming Soon!)
+### 🧬 [Pharmacophore Modeling for hERG Inhibitors](https://github.com/HazratMaghaz/Pharmacophore_Modeling)
+> **Tech:** MOE, QSAR, ADMET | Toxicity Screening  
+> *Developed models to evaluate drug cardiotoxicity with visual screening outputs.*
 
-> 🛠️ A fully automated pipeline for **drug discovery**  
-> 🔗 Steps: Ligand prep → Docking → Scoring → ADMET  
-> 🤖 ML integration for optimization  
-> 🧠 Built with MOE + GROMACS + Python
+### ⚗️ [InnoCAAD – AI-Driven Drug Design Pipeline](https://github.com/HazratMaghaz)
+> **Tech:** Python, AutoDock, GROMACS  
+> *A fully automated pipeline for ligand prep, docking, MD, and ADMET profiling.*
 
-🌐 GitHub: [InnoCAAD](https://github.com/HazratMaghaz/InnoCAAD)
-
----
-
-## 💬 Mission Statement
-
-> 💡 *“From molecules to models — bridging bio and code.”*  
-> 🚀 Driven by curiosity. Powered by data. Focused on solutions.
+### 🧠 [Deep Genomics Predictor (Coming Soon)]()
+> **Tech:** PyTorch, RNA-seq, Deep Learning  
+> *Under development for genomic variant impact predictions.*
 
 ---
 
-## 🎯 Did You Know?
+## 📈 Activity Highlights (Custom Stats)
 
-> 🧪 I ran my first molecular docking simulation before finishing undergrad!  
-> 🔍 Built a WordPress plugin that calculates ΔG binding energy for ligands.  
-> 🤖 I believe scientists using AI will replace those who don’t.
-
----
-
-## 📜 Certifications
-
-[![Coursera: Deep Learning](https://img.shields.io/badge/Coursera-Deep_Learning-blue?style=flat&logo=coursera)](https://coursera.org)  
-[![Coursera: Bioinformatics](https://img.shields.io/badge/Coursera-Bioinformatics-yellow?style=flat&logo=coursera)](https://coursera.org)
-
-> *(You can replace or add real certificate links here.)*
+[![Commits](https://img.shields.io/badge/Weekly_Commits-5-green?style=flat-square&logo=git)]()  
+[![Issues](https://img.shields.io/badge/Issues_Closed-3-blue?style=flat-square&logo=github)]()  
+[![Projects](https://img.shields.io/badge/Active_Projects-4-orange?style=flat-square&logo=project)]()  
+[![Docs](https://img.shields.io/badge/Docs_Updated-2-informational?style=flat-square&logo=readthedocs)]()  
+[![Learning](https://img.shields.io/badge/Ongoing_Courses-3-purple?style=flat-square&logo=Coursera)]()
 
 ---
 
@@ -77,9 +71,11 @@
 
 ---
 
-## 📊 GitHub Activity Heatmap
+## 🤓 Fun Fact
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazratMaghaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+> 🧪 I’ve used AutoDock, GROMACS, and MOE — all in a single pipeline for one project.  
+> 🧬 I started as a biochemist, and now I write Python scripts for genomic models.  
+> 🧑‍🏫 My freelance journey began in 2022 — and I’ve worked with researchers globally!
 
 ---
 
@@ -91,5 +87,25 @@
 
 ---
 
-> ⚗️ *Keep exploring. Keep coding. Keep innovating.*
+## 📜 Certifications
+
+[![Coursera: Deep Learning](https://img.shields.io/badge/Coursera-Deep_Learning-blue?style=flat&logo=coursera)](https://coursera.org)  
+[![Coursera: Bioinformatics](https://img.shields.io/badge/Coursera-Bioinformatics-yellow?style=flat&logo=coursera)](https://coursera.org)
+
+> *(You can replace or add real certificate links here.)*
+
+---
+
+## 📊 GitHub Activity Heatmap
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazratMaghaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧑‍💻 Quote / Mission
+
+> 💡 *“From molecules to models — bridging bio and code.”*  
+> 🔍 *Dedicated to using AI and bioinformatics for real-world health solutions.*
+
+---
 
