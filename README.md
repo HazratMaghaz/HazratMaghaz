@@ -97,7 +97,6 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 > *(You can replace or add real certificate links here.)*
 
 ---
-hello 
 
 ## 📊 GitHub Activity Heatmap
 
