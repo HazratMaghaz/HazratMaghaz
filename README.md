@@ -10,7 +10,7 @@
 🎓 Master's Student in **Bioinformatics @ NUST**, Pakistan  
 🔬 Researcher in **Computational Drug Design, NGS, Genomics, ML/AI**  
 💻 Developer | Freelancer | Scientific Thinker
-ok
+
 ---
 
 ## 🧠 About Me
