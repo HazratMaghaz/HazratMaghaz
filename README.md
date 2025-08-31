@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
 </p>
-
+ 
 ---
 
 # 👋 Hi, I'm Hazrat Maghaz
