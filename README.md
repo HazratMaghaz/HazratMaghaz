@@ -94,7 +94,6 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 [![Coursera: Deep Learning](https://img.shields.io/badge/Coursera-Deep_Learning-blue?style=flat&logo=coursera)](https://coursera.org)  
 [![Coursera: Bioinformatics](https://img.shields.io/badge/Coursera-Bioinformatics-yellow?style=flat&logo=coursera)](https://coursera.org)
 
-
 ---
 
 ## 📊 GitHub Activity Heatmap
