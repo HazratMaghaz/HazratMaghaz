@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm passionate about using **Bioinformatics + AI** to solve real-world problems. I combine my background in **biochemistry and machine learning** to work on computational biology, genomics, and drug discovery projects.
+I'm passionate about using **Bioinformatics + AI** to solve real-world problems. I combine my background in **bioinformatics and machine learning** to work on computational biology, genomics, and drug discovery projects.
 
 ### 🔍 Areas of Focus:
 - 🧬 NGS analysis, RNA-seq & DEG workflows
