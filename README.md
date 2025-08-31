@@ -5,7 +5,7 @@
  
 ---
 
-# 👋 Hi, I'm Hazrat Maghaz
+# 👋 Hi, I'm Hazrat Maghaz    
 
 🎓 Master's Student in **Bioinformatics @ NUST**, Pakistan  
 🔬 Researcher in **Computational Drug Design, NGS, Genomics, ML/AI**  
