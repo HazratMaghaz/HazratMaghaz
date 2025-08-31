@@ -25,16 +25,15 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 - 🛠️ Building pipelines like **InnoCAAD** for automated drug design
 
 ---
-## 🧰 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,html,css,javascript,react,nodejs,mongodb" />
-<!--   <img src="https://yourimagehost.com/pdb-logo.png" alt="PDB" width="40" height="40" />
-  <img src="https://yourimagehost.com/chembl-logo.png" alt="ChemBL" width="40" height="40" />
-  <img src="https://en.m.wikipedia.org/wiki/File:US-NLM-NCBI-Logo.svg" alt="NCBI" width="40" height="40" /> -->
+  
+  <!-- Custom Icons -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Protein_Data_Bank_logo.png" alt="PDB" width="40" height="40" />
+  <img src="https://www.ebi.ac.uk/chembl/api/data/image/chembl.png" alt="ChemBL" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/US-NLM-NCBI-Logo.svg" alt="NCBI" width="40" height="40" />
 </p>
 
-
----
 ## 📌 Pinned Projects
 
 ### 🧬 [Pharmacophore Modeling for hERG Inhibitors](https://github.com/HazratMaghaz/Pharmacophore_Modeling)
