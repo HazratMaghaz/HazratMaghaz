@@ -25,6 +25,7 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 - 🛠️ Building pipelines like **InnoCAAD** for automated drug design
 
 ---
+## 🧰 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,html,css,javascript,react,nodejs,mongodb" />
   
