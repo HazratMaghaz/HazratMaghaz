@@ -39,7 +39,7 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 
 ### 🧬 [Pharmacophore Modeling for hERG Inhibitors](https://github.com/HazratMaghaz/Pharmacophore_Modeling)
 > **Tech:** MOE, QSAR, ADMET | Toxicity Screening  
-> *Developed models to evaluate drug cardiotoxicity with visual screening outputs.*
+> *Developed models to evaluate drug cardiotoxicity with visual screening outputs.*   
 
 ### ⚗️ [InnoCAAD – AI-Driven Drug Design Pipeline](https://github.com/HazratMaghaz)
 > **Tech:** Python, AutoDock, GROMACS  
