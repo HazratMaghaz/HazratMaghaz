@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
 </p>
- 
+
 ---
 
-# 👋 Hi, I'm Hazrat Maghaz          
+# 👋 Hi, I'm Hazrat Maghaz
 
 🎓 Master's Student in **Bioinformatics @ NUST**, Pakistan  
 🔬 Researcher in **Computational Drug Design, NGS, Genomics, ML/AI**  
-💻 Developer | Freelancer | Scientific researcher | AI 
+💻 Developer | Freelancer | Scientific researcher | AI
 
 ---
 
@@ -25,6 +25,7 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 - 🛠️ Building pipelines like **InnoCAAD** for automated drug design
 
 ---
+
 ## 🧰 Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,linux,pytorch,tensorflow,html,css,javascript,react,nodejs,mongodb&perline=8" />
@@ -94,38 +95,31 @@ Fully automated pipeline for ligand preparation, molecular docking, MD simulatio
 
 ---
 
-## 🤓 Fun Fact
+## 🧑‍💻 Mission
 
-> 🧪 I’ve used AutoDock, GROMACS, and MOE — all in a single pipeline for one project.  
-> 🧬 I started as a biochemist, and now I write Python scripts for genomic models.  
-> 🧑‍🏫 My freelance journey began in 2022 — and I’ve worked with researchers globally!
+> *"From molecules to models — bridging bio and code."*  
+> Dedicated to using AI and bioinformatics for real-world health solutions.
 
 ---
 
-## 🎯 Goals
+<details>
+<summary>🎯 Goals & Aspirations</summary>
+<br>
 
-- 🔭 Become a **scientist in Bioinformatics** and expert in **AI-based health informatics**
+- 🔭 Become a scientist in Bioinformatics and expert in AI-based health informatics
 - 💼 Contribute to open-source bioinformatics projects
 - 📈 Build tools that integrate AI, data science, and molecular biology
 
+</details>
+
+<details>
+<summary>🤓 Fun Facts</summary>
+<br>
+
+- 🧪 I've used AutoDock, GROMACS, and MOE — all in a single pipeline for one project
+- 🧬 I started as a biochemist, and now I write Python scripts for genomic models
+- 🧑‍🏫 My freelance journey began in 2022 — and I've worked with researchers globally
+
+</details>
+
 ---
-
-## 📜 Certifications
-
-[![Coursera: Deep Learning](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)  
-[![Coursera: Bioinformatics](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
-
----
-
-## 📊 GitHub Activity Heatmap
-
-[![GitHub Activity Graph](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
-
----
-
-## 🧑‍💻 Quote / Mission
-
-> 💡 *“From molecules to models — bridging bio and code.”*  
-> 🔍 *Dedicated to using AI and bioinformatics for real-world health solutions.*
-
----   
