@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=170&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=0d1117&stroke=0d1117&strokeWidth=2"
+    src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=300&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=0d1117&stroke=0d1117&strokeWidth=2"
     alt="Header"
     style="width:100%; max-width:100%; display:block; margin:0; padding:0;"
   />
