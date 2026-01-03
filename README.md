@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=1ABC9C&center=true&vCenter=true&width=520&lines=Bioinformatics+%28MSc%29+%40+NUST%2C+Pakistan;Computational+drug+design+%26+genomics;NGS+analysis+%7C+Docking+%7C+ML%2FAI;Building+practical+bioinformatics+tools" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Hazrat Maghaz</h1>
