@@ -42,10 +42,7 @@
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=70&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&stroke=00f2ea&strokeWidth=2&animation=fadeIn" alt="Header" width="100%"/>
-  
-  <br/>
+
   
   <a href="https://portfolio-website-new-three.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=750&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev" alt="Typing SVG" />
