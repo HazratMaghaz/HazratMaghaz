@@ -1,3 +1,4 @@
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=230&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=0d1117&stroke=0d1117&strokeWidth=2"
@@ -16,28 +17,35 @@
 
 <br/>
 
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=820&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
+    alt="Typing SVG"
+  />
+</div>
+
+<br/>
+
+<!-- Buttons (ONLY the ones you asked) -->
 <div align="center">
   <a href="https://portfolio-website-new-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-33FFCC?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" />
-  </a>
-  <a href="https://portfolio-website-new-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-Open-33FFCC?style=for-the-badge&logo=google-chrome&logoColor=0d1117&labelColor=0d1117" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Portfolio-33FFCC?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   <a href="mailto:maaz28608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   <a href="https://www.fiverr.com/dromics05">
-    <img src="https://img.shields.io/badge/Fiverr-Bioinformatics-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117" alt="Fiverr Bio" />
+    <img src="https://img.shields.io/badge/Fiverr-Bioinformatics-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117" alt="Fiverr" />
   </a>
-  <a href="https://www.fiverr.com/maazkhan141">
-    <img src="https://img.shields.io/badge/Fiverr-Web_Dev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117" alt="Fiverr Web" />
+  <a href="https://facebook.com/YOUR_FB_USERNAME">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook" />
   </a>
 </div>
 
-<br/><br/>
 
 ## 👨‍🔬 About Me
 
