@@ -18,25 +18,28 @@
 
 <div align="center">
   <a href="https://portfolio-website-new-three.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-33FFCC?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" />
+  </a>
+  <a href="https://portfolio-website-new-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Open-33FFCC?style=for-the-badge&logo=google-chrome&logoColor=0d1117&labelColor=0d1117" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
   <a href="mailto:maaz28608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
   <a href="https://www.fiverr.com/dromics05">
-    <img src="https://img.shields.io/badge/Fiverr-Bioinformatics-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Bio" />
+    <img src="https://img.shields.io/badge/Fiverr-Bioinformatics-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117" alt="Fiverr Bio" />
   </a>
   <a href="https://www.fiverr.com/maazkhan141">
-    <img src="https://img.shields.io/badge/Fiverr-Web_Dev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Web" />
+    <img src="https://img.shields.io/badge/Fiverr-Web_Dev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117" alt="Fiverr Web" />
   </a>
 </div>
 
 <br/><br/>
 
-## 👨‍🔬 **About Me**
+## 👨‍🔬 About Me
 
 > *"Transforming biological data into life-saving insights through AI, one algorithm at a time."*
 
@@ -48,7 +51,7 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 ---
 
-## 🚀 **What I Bring to the Table**
+## 🚀 What I Bring to the Table
 
 | Domain | Expertise |
 | :--- | :--- |
@@ -59,7 +62,7 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 ---
 
-## 🛠️ **Technical Stack**
+## 🛠️ Technical Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,docker,fastapi,react,nextjs,tailwind,pytorch,tensorflow,sklearn,postgres&perline=8" alt="Tech Stack" />
@@ -76,7 +79,7 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 ---
 
-## 📌 **Featured Projects**
+## 📌 Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -91,13 +94,13 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=HazratMaghaz&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2ea&amp;icon_color=33FFCC&amp;text_color=c9d1d9&amp;cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HazratMaghaz&amp;theme=tokyonight"
     alt="GitHub Stats"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=HazratMaghaz&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00f2ea&amp;fire=33FFCC&amp;currStreakLabel=c9d1d9&amp;sideLabels=c9d1d9&amp;currStreakNum=33FFCC&amp;sideNums=33FFCC&amp;cache_seconds=86400"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazratMaghaz&amp;theme=tokyonight&amp;utcOffset=5"
+    alt="Productive Time"
     height="165"
   />
 </div>
@@ -106,8 +109,13 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazratMaghaz&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00f2ea&amp;text_color=c9d1d9&amp;cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazratMaghaz&amp;theme=tokyonight"
     alt="Top Languages"
+    height="165"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazratMaghaz&amp;theme=tokyonight"
+    alt="Repos per Language"
     height="165"
   />
 </div>
@@ -119,7 +127,7 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
   <p>I am open to <b>Research Collaborations</b>, <b>Freelance Bioinformatics Projects</b>, and building <b>Custom Research Dashboards</b>.</p>
 
   <a href="mailto:maaz28608@gmail.com">
-    <img src="https://img.shields.io/badge/Hire_Me_/_Contact-Click_Here-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
+    <img src="https://img.shields.io/badge/Hire_Me_/_Contact-Click_Here-33FFCC?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Hire Me" />
   </a>
 
   <br/><br/>
