@@ -68,13 +68,29 @@ Fully automated pipeline for ligand preparation, molecular docking, MD simulatio
 
 ## 📫 Connect with Me
 
-- [![Email](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
-- [![GitHub](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)    
-- [![LinkedIn](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)  
-- [![Fiverr](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip) 
-- [![Upwork](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip~01e6bc6e7cc7407cfc?viewMode=1)  
-- [![Facebook](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)  
-- [![WhatsApp](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
+<p align="center">
+  <a href="mailto:[YOUR_EMAIL_HERE]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/HazratMaghaz">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.fiverr.com/[YOUR_FIVERR_USERNAME]">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/[YOUR_UPWORK_ID]">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="https://facebook.com/[YOUR_FB_USERNAME]">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://wa.me/[YOUR_PHONE_NUMBER]">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
