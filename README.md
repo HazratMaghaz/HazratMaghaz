@@ -27,12 +27,16 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
 ---
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip,r,bash,git,github,vscode,wordpress,shopify,linux,pandas,numpy,matplotlib,html,css,javascript,react,nodejs,mongodb" />
-  
-  <!-- Custom Icons -->
-  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip" alt="PDB" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip" alt="ChemBL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip" alt="NCBI" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,r,bash,git,github,vscode,wordpress,linux,pytorch,tensorflow,html,css,javascript,react,nodejs,mongodb&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PDB-003366?style=for-the-badge&logo=protein&logoColor=white" alt="PDB" />
+  <img src="https://img.shields.io/badge/ChEMBL-00897B?style=for-the-badge&logo=molecule&logoColor=white" alt="ChEMBL" />
+  <img src="https://img.shields.io/badge/NCBI-0071BC?style=for-the-badge&logo=genome&logoColor=white" alt="NCBI" />
+  <img src="https://img.shields.io/badge/AutoDock-FF6B35?style=for-the-badge" alt="AutoDock" />
+  <img src="https://img.shields.io/badge/GROMACS-8B0000?style=for-the-badge" alt="GROMACS" />
+  <img src="https://img.shields.io/badge/MOE-2E86AB?style=for-the-badge" alt="MOE" />
 </p>
 
 ## 📌 Pinned Projects
