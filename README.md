@@ -1,37 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20%7C%20AI%20Drug%20Discovery%20%7C%20Full-Stack%20Dev&fontSize=70&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&stroke=00f2ea&strokeWidth=2&animation=fadeIn" alt="Header" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=170&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=0d1117&stroke=0d1117&strokeWidth=2"
+    alt="Header"
+    style="width:100%; max-width:100%; display:block; margin:0; padding:0;"
+  />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=70&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&stroke=00f2ea&strokeWidth=2&animation=fadeIn" alt="Header" width="100%"/>
   
   <br/>
   
   <a href="https://portfolio-website-new-three.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=750&lines=MSc+Bioinformatics+%40+NUST+(Pakistan);Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=750&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  
   <a href="https://portfolio-website-new-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="mailto:maaz28608@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <a href="https://www.fiverr.com/dromics05">
     <img src="https://img.shields.io/badge/Fiverr-Bioinformatics-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Bio" />
   </a>
-  
-    <a href="https://www.fiverr.com/maazkhan141">
+  <a href="https://www.fiverr.com/maazkhan141">
     <img src="https://img.shields.io/badge/Fiverr-Web_Dev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Web" />
   </a>
-
 </div>
 
 <br/>
