@@ -1,15 +1,14 @@
-<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=1ABC9C&center=true&vCenter=true&width=435&lines=🔬+Scientist+in+Bioinformatics;💊+Drug+Discovery+Enthusiast;🧠+AI+for+Health+Informatics;🌐+Freelancer+%2F+Web+Developer;🚀+Building+Smart+BioTools" alt="Typing SVG" />
 </p>
 
----
+<h1 align="center">👋 Hi, I'm Hazrat Maghaz</h1>
 
-# 👋 Hi, I'm Hazrat Maghaz
-
-🎓 Master's Student in **Bioinformatics @ NUST**, Pakistan  
-🔬 Researcher in **Computational Drug Design, NGS, Genomics, ML/AI**  
-💻 Developer | Freelancer | Scientific researcher | AI
+<p align="center">
+🎓 Master's Student in <strong>Bioinformatics @ NUST</strong>, Pakistan<br>
+🔬 Researcher in <strong>Computational Drug Design, NGS, Genomics, ML/AI</strong><br>
+💻 Developer | Freelancer | Scientific Researcher | AI Enthusiast
+</p>
 
 ---
 
