@@ -55,15 +55,16 @@ Fully automated pipeline for ligand preparation, molecular docking, MD simulatio
 
 ---
 
-## 📈 Activity Highlights (Custom Stats)
-
-[![Commits](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
-[![Issues](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
-[![Projects](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
-[![Docs](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()  
-[![Learning](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)]()
-
----
+<details>
+<summary>📈 GitHub Stats</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HazratMaghaz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazratMaghaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+</details>
 
 ## 📫 Connect with Me
 
