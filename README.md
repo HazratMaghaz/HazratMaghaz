@@ -39,19 +39,19 @@ I'm passionate about using **Bioinformatics + AI** to solve real-world problems.
   <img src="https://img.shields.io/badge/MOE-2E86AB?style=for-the-badge" alt="MOE" />
 </p>
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
-### 🧬 [Pharmacophore Modeling for hERG Inhibitors](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
-> **Tech:** MOE, QSAR, ADMET | Toxicity Screening  
-> *Developed models to evaluate drug cardiotoxicity with visual screening outputs.*   
+### 🧬 [Pharmacophore Modeling for hERG Inhibitors](#)
+**Tech:** MOE · QSAR · ADMET  
+Developed predictive models to evaluate drug cardiotoxicity through pharmacophore-based virtual screening.
 
-### ⚗️ [InnoCAAD – AI-Driven Drug Design Pipeline](https://raw.githubusercontent.com/HazratMaghaz/HazratMaghaz/main/scenarioize/HazratMaghaz.zip)
-> **Tech:** Python, AutoDock, GROMACS  
-> *A fully automated pipeline for ligand prep, docking, MD, and ADMET profiling.*
+### ⚗️ [InnoCAAD – AI-Driven Drug Design Pipeline](#)
+**Tech:** Python · AutoDock · GROMACS  
+Fully automated pipeline for ligand preparation, molecular docking, MD simulations, and ADMET profiling.
 
-### 🧠 [Deep Genomics Predictor (Coming Soon)]()
-> **Tech:** PyTorch, RNA-seq, Deep Learning  
-> *Under development for genomic variant impact predictions.*
+### 🧠 [Deep Genomics Predictor](#)
+**Tech:** PyTorch · RNA-seq · Deep Learning  
+*Under development* — Genomic variant impact prediction using deep learning on NGS data.
 
 ---
 
