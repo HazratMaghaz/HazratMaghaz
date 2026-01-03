@@ -14,14 +14,16 @@
 
 ## 🧠 About Me
 
-I'm passionate about using **Bioinformatics + AI** to solve real-world problems. I combine my background in **biochemistry and machine learning** to work on computational biology, genomics, and drug discovery projects.
+I work at the intersection of computational drug design and genomics, focused on reproducible analyses and practical tools that support research workflows.
+
+My interests include NGS pipelines, structure-based screening, and applying ML to biological questions.
 
 ### 🔍 Areas of Focus:
-- 🧬 NGS analysis, RNA-seq & DEG workflows
-- 💊 Pharmacophore modeling, QSAR, and molecular docking
-- 🧠 Applying **Deep Learning** in genomic prediction and protein function
-- 🌐 Web development (WordPress & Shopify-based bio-tools)
-- 🛠️ Building pipelines like **InnoCAAD** for automated drug design
+- NGS analysis (RNA-seq, differential expression)
+- Pharmacophore modeling, QSAR, and molecular docking
+- Deep learning for genomics and protein function
+- Bio-tools and web apps for research workflows
+- Automation pipelines for end-to-end drug design
 
 ---
 
@@ -118,6 +120,15 @@ Fully automated pipeline for ligand preparation, molecular docking, MD simulatio
 - 🧪 I've used AutoDock, GROMACS, and MOE — all in a single pipeline for one project
 - 🧬 I started as a biochemist, and now I write Python scripts for genomic models
 - 🧑‍🏫 My freelance journey began in 2022 — and I've worked with researchers globally
+
+</details>
+
+<details>
+<summary>📜 Certifications</summary>
+<br>
+
+- Coursera: Deep Learning (add link)
+- Coursera: Bioinformatics (add link)
 
 </details>
 
