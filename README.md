@@ -121,16 +121,31 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 ---
 
-## 📈 **GitHub Analytics**
+## 📈 GitHub Analytics
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HazratMaghaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=33FFCC&text_color=c9d1d9" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HazratMaghaz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=33FFCC&text_color=c9d1d9" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazratMaghaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&text_color=c9d1d9" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HazratMaghaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=33FFCC&text_color=c9d1d9&cache_seconds=86400"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=HazratMaghaz&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ea&fire=33FFCC&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=33FFCC&sideNums=33FFCC&cache_seconds=86400"
+    alt="GitHub Streak"
+    height="165"
+  />
 </div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazratMaghaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&text_color=c9d1d9&cache_seconds=86400"
+    alt="Top Languages"
+    height="165"
+  />
+</div>
+
 
 ---
 
