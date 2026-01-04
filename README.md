@@ -8,7 +8,7 @@
 
   <a href="https://portfolio-website-new-three.vercel.app/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0D1117&center=true&vCenter=true&width=750&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0D1117&center=true&vCenter=true&width=750&lines=MS+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
       alt="Typing SVG"
       style="margin-top:10px;"
     />
@@ -83,6 +83,8 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
   <img src="https://img.shields.io/badge/GROMACS-MD_Sims-green?style=flat-square" alt="GROMACS" />
   <img src="https://img.shields.io/badge/PyMOL-Visualization-orange?style=flat-square" alt="PyMOL" />
   <img src="https://img.shields.io/badge/Biopython-Scripting-yellow?style=flat-square" alt="Biopython" />
+  <img src="https://img.shields.io/badge/Differentials-Expression-white?style=flat-square" alt="Deseq2" />
+  <img src="https://img.shields.io/badge/3D-QSAR-pink?style=flat-square" alt="GRIND2" />
 </div>
 
 ---
