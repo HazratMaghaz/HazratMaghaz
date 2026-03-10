@@ -104,13 +104,22 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=HazratMaghaz&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazratMaghaz&theme=tokyonight"
+    alt="Profile Details"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HazratMaghaz&theme=tokyonight"
     alt="GitHub Stats"
     height="165"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazratMaghaz&theme=tokyonight&utcOffset=5"
-    alt="Productive Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazratMaghaz&theme=tokyonight"
+    alt="Most Commit Language"
     height="165"
   />
 </div>
@@ -119,13 +128,13 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazratMaghaz&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazratMaghaz&theme=tokyonight"
+    alt="Repos per Language"
     height="165"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazratMaghaz&theme=tokyonight"
-    alt="Repos per Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazratMaghaz&theme=tokyonight&utcOffset=5"
+    alt="Productive Time"
     height="165"
   />
 </div>
