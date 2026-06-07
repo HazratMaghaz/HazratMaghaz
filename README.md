@@ -1,72 +1,55 @@
-
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20Researcher%20%7C%20AI%20for%20Drug%20Discovery&fontSize=64&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=2"
-    alt="Header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20%7C%20AI%20Drug%20Discovery%20%7C%20Research%20Software&fontSize=58&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1"
+    alt="Hazrat Maghaz GitHub Header"
     style="width:100%; max-width:100%; display:block; margin:0; padding:0;"
   />
-
-  <a href="#">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0D1117&center=true&vCenter=true&width=750&lines=MS+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;Expert+in+NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
-      alt="Typing SVG"
-      style="margin-top:10px;"
-    />
-  </a>
 </div>
-
-<br/>
-
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=33FFCC&center=true&vCenter=true&width=820&lines=MSc+Bioinformatics+%40+NUST;Bridging+Biology%2C+AI%2C+and+Technology;Founder+of+InnoHelix+%26+Omics+Nexus;NGS%2C+QSAR%2C+Docking+%26+Web+Dev"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=900&color=33FFCC&center=true&vCenter=true&width=900&lines=MSc+Bioinformatics+%40+NUST;Bioinformatics+%2B+AI+%2B+Drug+Discovery;Founder+of+InnoHelix+%26+Omics+Nexus;NGS+%7C+QSAR+%7C+Docking%2FMD+%7C+Web+Development"
     alt="Typing SVG"
   />
 </div>
 
 <br/>
 
-<!-- Social Buttons -->
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://hazratmaghaz.tech/">
+    <img src="https://img.shields.io/badge/Website-hazratmaghaz.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/hazratmaghaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hazrat-maghaz-6967b9374/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hazrat%20Maghaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="mailto:hazratmaghaz05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hazratmaghaz05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
+---
 
 ## 👨‍🔬 About Me
 
-> *"Transforming biological data into life-saving insights through AI, one algorithm at a time."*
+Hi, I’m **Hazrat Maghaz** — a **Bioinformatician, Computational Biologist, AI enthusiast, and research-software builder**.
 
-Hi, I'm **Hazrat**. I sit at the intersection where **wet-lab biology meets code**.
+I work at the intersection of **biology, machine learning, molecular modeling, and full-stack development**. My core focus is building reproducible workflows for **NGS analysis, AI-driven drug discovery, QSAR modeling, molecular docking/MD simulations, and scientific web applications**.
 
-Currently, I am completing my **MSc in Bioinformatics at NUST (SINES)** while building tools that make scientific research faster and more reproducible. My passion lies in **Computational Drug Discovery**, **Genomics (NGS)**, and building **AI-powered Web Apps** for scientists.
+Alongside my academic and freelance work, I am building **InnoHelix** and **Omics Nexus** with the goal of making bioinformatics tools, training, and research workflows more accessible, reproducible, and useful for students, researchers, and biotech teams.
 
-I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics Nexus** (Bioinformatics Training) to democratize access to advanced scientific tools.
+> **From molecules to models — bridging biology, AI, and code.**
 
 ---
 
-## 🚀 What I Bring to the Table
+## 🚀 What I Work On
 
-| Domain | Expertise |
+| Area | What I Do |
 | :--- | :--- |
-| **🧬 Genomics & NGS** | RNA-seq analysis, Differential Expression (DEG), Pathway Enrichment, and building reproducible pipelines. |
-| **💊 Drug Discovery** | **QSAR/ADMET** modeling, Molecular Docking, MD Simulations, and Pharmacophore modeling. |
-| **🤖 ML for Biology** | Building robust AI models (no data leakage!) using **SHAP** for explainability and Deep Learning for signal processing. |
-| **💻 Research Tools** | I don't just write scripts; I build **Full-Stack Web Apps** (Next.js, FastAPI, Python) to visualize and deploy models. |
+| **🧬 Bioinformatics & NGS** | RNA-seq analysis, differential expression, pathway enrichment, sequence analysis, and reproducible omics workflows. |
+| **💊 AI for Drug Discovery** | QSAR/pIC50 prediction, molecular fingerprints, ADMET-style modeling, SHAP-based interpretation, pharmacophore modeling, docking, and MD simulations. |
+| **🤖 Machine Learning & Deep Learning** | Classical ML, explainable AI, model evaluation, computer vision, medical imaging, and biological-data modeling. |
+| **💻 Research Software & Web Apps** | Python pipelines, FastAPI backends, Next.js/React interfaces, dashboards, and bioinformatics SaaS-style tools. |
+| **🧪 Scientific Reporting** | Clean project documentation, visualizations, reproducible methods, and client/research-ready reports. |
 
 ---
 
@@ -79,28 +62,62 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/DESeq2-2196F3?style=for-the-badge" alt="DESeq2" />
+  <img src="https://img.shields.io/badge/RDKit-00599C?style=for-the-badge" alt="RDKit" />
+  <img src="https://img.shields.io/badge/SHAP-9C27B0?style=for-the-badge" alt="SHAP" />
+  <img src="https://img.shields.io/badge/Biopython-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
   <img src="https://img.shields.io/badge/AutoDock_Vina-FF6B35?style=for-the-badge" alt="AutoDock Vina" />
   <img src="https://img.shields.io/badge/GROMACS-8B0000?style=for-the-badge" alt="GROMACS" />
   <img src="https://img.shields.io/badge/PyMOL-4B0082?style=for-the-badge" alt="PyMOL" />
-  <img src="https://img.shields.io/badge/Biopython-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
-  <img src="https://img.shields.io/badge/DESeq2-2196F3?style=for-the-badge" alt="Deseq2" />
-  <img src="https://img.shields.io/badge/GRIND2-00897B?style=for-the-badge" alt="GRIND2" />
+  <img src="https://img.shields.io/badge/MOE-00695C?style=for-the-badge" alt="MOE" />
 </div>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Tech Stack | Description |
+| Project | Focus | Description |
 | :--- | :--- | :--- |
-| **🧠 Brain Cancer CNN** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **Medical Imaging AI:** A deep learning model for brain tumor detection and classification with robust validation metrics to aid early diagnosis. |
-| **⚗️ QSAR with SHAP** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XAI](https://img.shields.io/badge/XAI%2FSHAP-9C27B0?style=flat-square) | **Drug Discovery AI:** A predictive model for drug activity utilizing **SHAP** (Explainable AI) to interpret exactly *why* a molecule is active. |
-| **🧬 RNA Structure Pred** | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1976D2?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-4CAF50?style=flat-square) | **Genomics Tooling:** Implemented secondary structure analysis and visualization algorithms for RNA aptamers to predict folding patterns. |
-| **👁️ Face Detection** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CV](https://img.shields.io/badge/Computer%20Vision-FF4081?style=flat-square) | **Real-Time CV:** A high-accuracy face detection system capable of identifying individuals in live video streams. |
+| **🧬 [RNA-seq Crohn’s Disease Analysis](https://github.com/HazratMaghaz/RNAseq-Crohns-DESeq2-GSEA)** | `R` `DESeq2` `GSEA` `Transcriptomics` | Differential expression and Hallmark GSEA workflow for Crohn’s Disease RNA-seq data with organized scripts, figures, and reproducible documentation. |
+| **⚗️ [QSAR IC50 Prediction with RDKit + SHAP](https://github.com/HazratMaghaz/QSAR-IC50-Prediction-RDKit-SHAP)** | `Python` `QSAR` `Scikit-learn` `SHAP` | AI-based QSAR pipeline for pIC50 prediction using molecular fingerprints, model comparison, applicability-domain diagnostics, and explainable modeling. |
+| **💊 [hERG Pharmacophore Modeling in MOE](https://github.com/HazratMaghaz/Pharmacophore-Modeling-hERG-Inhibitors-MOE)** | `MOE` `Pharmacophore` `Virtual Screening` | Pharmacophore modeling workflow for hERG inhibitor screening, including feature mapping, conformer database handling, and hit evaluation. |
+| **🐍 [Bioinformatics Python Basics](https://github.com/HazratMaghaz/Bioinformatics-Python-Basics)** | `Python` `Biopython` `NCBI` | Beginner-friendly Python and Biopython scripts for sequence analysis, FASTA/FASTQ handling, k-mers, ORFs, PubMed/NCBI retrieval, and learning core bioinformatics logic. |
+| **🧠 Medical / Image Classification AI** | `PyTorch` `Computer Vision` `Deep Learning` | Image-classification workflows for AI/ML learning and medical-imaging style projects. This section will be updated after the repo cleanup. |
+| **🌐 Research Web Tools** | `Next.js` `FastAPI` `Dashboards` | Full-stack tools and dashboards for bioinformatics workflows, model visualization, and research pipeline deployment. |
 
 ---
 
-## 📈 GitHub Analytics
+## 🧭 Current Focus
+
+```mermaid
+mindmap
+  root((Hazrat Maghaz))
+    Bioinformatics
+      RNA-seq
+      NGS pipelines
+      Microbiome
+      Multi-omics
+    AI Drug Discovery
+      QSAR
+      SHAP/XAI
+      Docking
+      MD simulations
+      Pharmacophore modeling
+    Machine Learning
+      Biological data
+      Medical imaging
+      Model evaluation
+      Explainability
+    Research Software
+      Next.js
+      FastAPI
+      Dashboards
+      Pipeline platforms
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img
@@ -141,15 +158,24 @@ I am also an entrepreneur, building **InnoHelix** (Research Tooling) and **Omics
 
 ---
 
+## 🤝 Let’s Collaborate
+
+I’m open to **research collaborations, freelance bioinformatics projects, AI/ML workflows, computational drug discovery projects, and custom scientific dashboards**.
+
 <div align="center">
-  <h2>🤝 Let's Collaborate!</h2>
-  <p>I am open to <b>Research Collaborations</b>, <b>Freelance Bioinformatics Projects</b>, and building <b>Custom Research Dashboards</b>.</p>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Me" />
+  <a href="https://hazratmaghaz.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:hazratmaghaz05@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hazrat-maghaz-6967b9374/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-  <br/><br/>
+<br/>
 
-  <p><i>"From Molecules to Models — Bridging Bio and Code."</i></p>
+<div align="center">
+  <i>“Building reproducible research workflows from raw data to real insight.”</i>
 </div>
