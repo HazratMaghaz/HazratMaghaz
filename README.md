@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20%7C%20AI%20Drug%20Discovery%20%7C%20Researcher%20Software%20 Developer&fontSize=58&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20%7C%20AI%20Drug%20Discovery%20%7C%20Researcher%20Software%20Developer&fontSize=58&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1"
     alt="Hazrat Maghaz GitHub Header"
     style="width:100%; max-width:100%; display:block; margin:0; padding:0;"
   />
