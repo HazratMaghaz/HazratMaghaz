@@ -74,7 +74,7 @@ The framework also includes:
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 <div align="center">
   <img
@@ -106,7 +106,7 @@ The framework also includes:
 | Project | Methods | Description |
 | :--- | :--- | :--- |
 | ** Crohn's Disease RNA-seq Analysis** | `R` `DESeq2` `GSEA` | A transcriptomics workflow for differential gene-expression analysis and gene set enrichment in Crohn's disease data. |
-| **⚗️ QSAR Prediction with RDKit & SHAP** | `Python` `RDKit` `scikit-learn` `SHAP` | Molecular descriptor and fingerprint analysis, predictive QSAR modeling, model evaluation, and interpretation of predictions. |
+| ** QSAR Prediction with RDKit & SHAP** | `Python` `RDKit` `scikit-learn` `SHAP` | Molecular descriptor and fingerprint analysis, predictive QSAR modeling, model evaluation, and interpretation of predictions. |
 | ** hERG Pharmacophore Modeling** | `MOE` `Pharmacophore` `Virtual Screening` | A computational modeling study examining pharmacophore features and screening approaches for hERG-related compounds. |
 | ** Bioinformatics with Python** | `Python` `Biopython` `Sequence Analysis` | Educational scripts covering FASTA/FASTQ processing, biological sequence analysis, and introductory bioinformatics workflows. |
 
@@ -121,35 +121,38 @@ These projects include independent computational studies and educational work; t
 The diagram below summarizes my main research interests and the computational methods I work with.
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Inter, Arial, sans-serif", "lineColor": "#6D9C9A", "background": "#F6F5F1"}}}%%
-flowchart TB
-    ROOT["HAZRAT MAGHAZ<br/>RESEARCH FOCUS"]
-
-    ROOT --> BIO["Bioinformatics &<br/>Computational Biology"]
-    ROOT --> AI["Biomedical AI &<br/>Machine Learning"]
-    ROOT --> OMICS["Genomics &<br/>Transcriptomics"]
-    ROOT --> STRUCT["Structural Bioinformatics<br/>& Drug Discovery"]
-
-    BIO --> BIO1["Sequence analysis"]
-    BIO --> BIO2["Reproducible workflows"]
-    AI --> AI1["NeuroBridge · Multimodal learning"]
-    AI --> AI2["Computational pathology"]
-    OMICS --> OMICS1["RNA-seq analysis"]
-    OMICS --> OMICS2["Gene-expression profiling"]
-    STRUCT --> STRUCT1["Molecular docking & MD"]
-    STRUCT --> STRUCT2["Protein structure & QSAR"]
-
-    classDef central fill:#0C1B25,stroke:#D9A86C,stroke-width:2px,color:#FFFFFF;
-    classDef domain fill:#0D767A,stroke:#B9DFD9,stroke-width:1.5px,color:#FFFFFF;
-    classDef detail fill:#294B56,stroke:#6C9E9E,stroke-width:1px,color:#FFFFFF;
-
-    class ROOT central;
-    class BIO,AI,OMICS,STRUCT domain;
-    class BIO1,BIO2,AI1,AI2,OMICS1,OMICS2,STRUCT1,STRUCT2 detail;
-    linkStyle default stroke:#6D9C9A,stroke-width:1.5px;
+mindmap
+  root((Hazrat Maghaz
+Research Focus))
+    Bioinformatics
+      RNA-seq analysis
+      Sequence analysis
+      Metagenomics
+      Reproducible workflows
+    Biomedical AI
+      NeuroBridge
+      Computational pathology
+      Machine learning
+      Multimodal analysis
+    Genomics
+      Gene-expression profiling
+      Differential expression
+      Pathway enrichment
+      Biological interpretation
+    Drug Discovery
+      QSAR modeling
+      Molecular docking
+      Molecular dynamics
+      Pharmacophore modeling
+    Research Software
+      Python and R pipelines
+      FastAPI and Next.js tools
+      Data visualization
+      Scientific reporting
 ```
 
-*The diagram represents research interests and methodological experience; it is not an experimental result.*
+ 
+
 
 ---
 
