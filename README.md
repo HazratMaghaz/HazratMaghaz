@@ -1,15 +1,15 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20%7C%20AI%20Drug%20Discovery%20%7C%20Researcher%20Software%20Developer&fontSize=58&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1"
-    alt="Hazrat Maghaz GitHub Header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hazrat%20Maghaz&desc=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Biomedical%20AI&fontSize=58&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=72&fontColor=FFFFFF&stroke=FFFFFF&strokeWidth=1"
+    alt="Hazrat Maghaz — Bioinformatics, Computational Biology and Biomedical AI"
     style="width:100%; max-width:100%; display:block; margin:0; padding:0;"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=900&color=33FFCC&center=true&vCenter=true&width=900&lines=MSc+Bioinformatics+%40+NUST;Bioinformatics+%2B+AI+%2B+Drug+Discovery;Founder+of+InnoHelix+%26+Omics+Nexus;NGS+%7C+QSAR+%7C+Docking%2FMD+%7C+Web+Development"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=1000&color=33FFCC&center=true&vCenter=true&width=900&lines=MS+Bioinformatics+%7C+NUST+SINES;NeuroBridge+%7C+Multimodal+CNS+Tumor+Research;Genomics+%7C+Transcriptomics+%7C+Biomedical+AI;Protein+Modeling+%7C+Docking+%7C+Molecular+Dynamics"
+    alt="Animated introduction highlighting research areas"
   />
 </div>
 
@@ -17,112 +17,157 @@
 
 <div align="center">
   <a href="https://hazratmaghaz.tech/">
-    <img src="https://img.shields.io/badge/Website-hazratmaghaz.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Academic_Website-hazratmaghaz.tech-0D767A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Academic website" />
   </a>
   <a href="https://www.linkedin.com/in/hazrat-maghaz-6967b9374/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hazrat%20Maghaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hazrat_Maghaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <a href="mailto:hazratmaghaz05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hazratmaghaz05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:maaz28608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hazratmaghaz.research%40gmail.com-0D767A?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic email" />
   </a>
 </div>
 
 ---
 
-## 👨‍🔬 About Me
+##  About Me
 
-Hi, I’m **Hazrat Maghaz** — a **Bioinformatician, Computational Biologist, AI enthusiast, and research-software builder**.
+I am **Hazrat Maghaz**, a bioinformatics researcher with an **MS in Bioinformatics from the National University of Sciences & Technology (NUST SINES), Pakistan**, and a **BS in Biochemistry from Abdul Wali Khan University Mardan**.
 
-I work at the intersection of **biology, machine learning, molecular modeling, and full-stack development**. My core focus is building reproducible workflows for **NGS analysis, AI-driven drug discovery, QSAR modeling, molecular docking/MD simulations, and scientific web applications**.
+My research interests include **computational biology, biomedical AI, genomics, transcriptomics, and computational drug discovery**. My master's research focused on integrating histopathology images and gene-expression data for CNS tumor analysis. I have also worked on computational studies involving RNA-seq analysis, QSAR modeling, protein structures, molecular docking, and molecular dynamics.
 
-Alongside my academic and freelance work, I am building **InnoHelix** and **Omics Nexus** with the goal of making bioinformatics tools, training, and research workflows more accessible, reproducible, and useful for students, researchers, and biotech teams.
+I am particularly interested in reproducible computational workflows, careful model evaluation, and biological interpretation of analytical results.
 
-> **From molecules to models — bridging biology, AI, and code.**
+> **Research focus:** Connecting biological data, computational methods, and biomedical questions.
 
 ---
 
-## 🚀 What I Work On
+##  Research Areas
 
-| Area | What I Do |
+| Area | Focus |
 | :--- | :--- |
-| **🧬 Bioinformatics & NGS** | RNA-seq analysis, differential expression, pathway enrichment, sequence analysis, and reproducible omics workflows. |
-| **💊 AI for Drug Discovery** | QSAR/pIC50 prediction, molecular fingerprints, ADMET-style modeling, SHAP-based interpretation, pharmacophore modeling, docking, and MD simulations. |
-| **🤖 Machine Learning & Deep Learning** | Classical ML, explainable AI, model evaluation, computer vision, medical imaging, and biological-data modeling. |
-| **💻 Research Software & Web Apps** | Python pipelines, FastAPI backends, Next.js/React interfaces, dashboards, and bioinformatics SaaS-style tools. |
-| **🧪 Scientific Reporting** | Clean project documentation, visualizations, reproducible methods, and client/research-ready reports. |
+| **Bioinformatics & Computational Biology** | Biological sequence analysis, gene-expression data, molecular datasets, and reproducible computational workflows. |
+| **Biomedical AI & Machine Learning** | Machine learning, deep learning, multimodal representation learning, and evaluation of models for biomedical data. |
+| **Genomics & Transcriptomics** | RNA-seq analysis, differential gene expression, pathway analysis, and interpretation of molecular variation. |
+| **Structural Bioinformatics & Drug Discovery** | Protein structure analysis, QSAR modeling, molecular docking, molecular dynamics, and pharmacophore methods. |
+
+---
+
+##  Featured Research — NeuroBridge
+
+**NeuroBridge: A Bidirectional Multimodal Deep Learning Framework for CNS Tumor Analysis Using Histopathology and Gene-Expression Profiles**
+
+**MS Thesis | NUST SINES | Approved September 2026**
+
+NeuroBridge is a research framework that examines how **histopathology images and gene-expression profiles** can be analyzed together using deep learning. Its main classification task concerns **GBM-like versus LGG-like** tumor patterns, rather than all CNS tumor types.
+
+The study used paired data from **TCGA-GBM and TCGA-LGG** for development and internal evaluation. **CPTAC-GBM**, a GBM-only cohort, was used for external transfer testing; it was not an external two-class validation cohort.
+
+The framework also includes:
+
+- **Path2Omics:** Prediction of selected molecular targets from image-derived features, not reconstruction of full RNA profiles.
+- **Gene2Morph:** Retrieval of **real histology reference patches** guided by gene-expression data, not generation of synthetic whole-slide images.
+- **Missing-modality evaluation:** Assessment of model behavior when histopathology or molecular information is unavailable.
+
+**Research overview:** [NeuroBridge on my academic website](https://hazratmaghaz.tech/research)
+
+*NeuroBridge is an academic research prototype and is not intended for clinical diagnosis.*
 
 ---
 
 ## 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,docker,fastapi,react,nextjs,tailwind,pytorch,tensorflow,sklearn,postgres&perline=8" alt="Tech Stack" />
+  <img
+    src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,docker,pytorch,tensorflow,sklearn&perline=10"
+    alt="Python, R, Linux, Bash, Git, GitHub, Docker, PyTorch, TensorFlow and scikit-learn"
+  />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/DESeq2-2196F3?style=for-the-badge" alt="DESeq2" />
+  <img src="https://img.shields.io/badge/Biopython-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
+  <img src="https://img.shields.io/badge/OpenSlide-0D767A?style=for-the-badge" alt="OpenSlide" />
   <img src="https://img.shields.io/badge/RDKit-00599C?style=for-the-badge" alt="RDKit" />
   <img src="https://img.shields.io/badge/SHAP-9C27B0?style=for-the-badge" alt="SHAP" />
-  <img src="https://img.shields.io/badge/Biopython-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="Biopython" />
   <img src="https://img.shields.io/badge/AutoDock_Vina-FF6B35?style=for-the-badge" alt="AutoDock Vina" />
   <img src="https://img.shields.io/badge/GROMACS-8B0000?style=for-the-badge" alt="GROMACS" />
   <img src="https://img.shields.io/badge/PyMOL-4B0082?style=for-the-badge" alt="PyMOL" />
   <img src="https://img.shields.io/badge/MOE-00695C?style=for-the-badge" alt="MOE" />
 </div>
 
+*These are tools and methods used or explored in academic and computational projects, not proficiency ratings.*
+
 ---
 
-## 📌 Featured Projects
+##  Selected Computational Projects
 
-| Project | Focus | Description |
+| Project | Methods | Description |
 | :--- | :--- | :--- |
-| **🧬 [RNA-seq Crohn’s Disease Analysis](https://github.com/HazratMaghaz/RNAseq-Crohns-DESeq2-GSEA)** | `R` `DESeq2` `GSEA` `Transcriptomics` | Differential expression and Hallmark GSEA workflow for Crohn’s Disease RNA-seq data with organized scripts, figures, and reproducible documentation. |
-| **⚗️ [QSAR IC50 Prediction with RDKit + SHAP](https://github.com/HazratMaghaz/QSAR-IC50-Prediction-RDKit-SHAP)** | `Python` `QSAR` `Scikit-learn` `SHAP` | AI-based QSAR pipeline for pIC50 prediction using molecular fingerprints, model comparison, applicability-domain diagnostics, and explainable modeling. |
-| **💊 [hERG Pharmacophore Modeling in MOE](https://github.com/HazratMaghaz/Pharmacophore-Modeling-hERG-Inhibitors-MOE)** | `MOE` `Pharmacophore` `Virtual Screening` | Pharmacophore modeling workflow for hERG inhibitor screening, including feature mapping, conformer database handling, and hit evaluation. |
-| **🐍 [Bioinformatics Python Basics](https://github.com/HazratMaghaz/Bioinformatics-Python-Basics)** | `Python` `Biopython` `NCBI` | Beginner-friendly Python and Biopython scripts for sequence analysis, FASTA/FASTQ handling, k-mers, ORFs, PubMed/NCBI retrieval, and learning core bioinformatics logic. |
-| **🧠 Medical / Image Classification AI** | `PyTorch` `Computer Vision` `Deep Learning` | Image-classification workflows for AI/ML learning and medical-imaging style projects. This section will be updated after the repo cleanup. |
-| **🌐 Research Web Tools** | `Next.js` `FastAPI` `Dashboards` | Full-stack tools and dashboards for bioinformatics workflows, model visualization, and research pipeline deployment. |
+| ** Crohn's Disease RNA-seq Analysis** | `R` `DESeq2` `GSEA` | A transcriptomics workflow for differential gene-expression analysis and gene set enrichment in Crohn's disease data. |
+| **⚗️ QSAR Prediction with RDKit & SHAP** | `Python` `RDKit` `scikit-learn` `SHAP` | Molecular descriptor and fingerprint analysis, predictive QSAR modeling, model evaluation, and interpretation of predictions. |
+| ** hERG Pharmacophore Modeling** | `MOE` `Pharmacophore` `Virtual Screening` | A computational modeling study examining pharmacophore features and screening approaches for hERG-related compounds. |
+| ** Bioinformatics with Python** | `Python` `Biopython` `Sequence Analysis` | Educational scripts covering FASTA/FASTQ processing, biological sequence analysis, and introductory bioinformatics workflows. |
+
+These projects include independent computational studies and educational work; they are not presented as peer-reviewed publications. Their GitHub repositories are currently private and will be linked individually as they are prepared for public release.
+
+**Further work and research figures:** [Computational Projects](https://hazratmaghaz.tech/projects)
 
 ---
 
-## 🧭 Current Focus
+##  Current Research Focus
+
+The diagram below summarizes my main research interests and the computational methods I work with.
 
 ```mermaid
-mindmap
-  root((Hazrat Maghaz))
-    Bioinformatics
-      RNA-seq
-      NGS pipelines
-      Microbiome
-      Multi-omics
-    AI Drug Discovery
-      QSAR
-      SHAP/XAI
-      Docking
-      MD simulations
-      Pharmacophore modeling
-    Machine Learning
-      Biological data
-      Medical imaging
-      Model evaluation
-      Explainability
-    Research Software
-      Next.js
-      FastAPI
-      Dashboards
-      Pipeline platforms
+%%{init: {"theme": "base", "themeVariables": {"fontFamily": "Inter, Arial, sans-serif", "lineColor": "#6D9C9A", "background": "#F6F5F1"}}}%%
+flowchart TB
+    ROOT["HAZRAT MAGHAZ<br/>RESEARCH FOCUS"]
+
+    ROOT --> BIO["Bioinformatics &<br/>Computational Biology"]
+    ROOT --> AI["Biomedical AI &<br/>Machine Learning"]
+    ROOT --> OMICS["Genomics &<br/>Transcriptomics"]
+    ROOT --> STRUCT["Structural Bioinformatics<br/>& Drug Discovery"]
+
+    BIO --> BIO1["Sequence analysis"]
+    BIO --> BIO2["Reproducible workflows"]
+    AI --> AI1["NeuroBridge · Multimodal learning"]
+    AI --> AI2["Computational pathology"]
+    OMICS --> OMICS1["RNA-seq analysis"]
+    OMICS --> OMICS2["Gene-expression profiling"]
+    STRUCT --> STRUCT1["Molecular docking & MD"]
+    STRUCT --> STRUCT2["Protein structure & QSAR"]
+
+    classDef central fill:#0C1B25,stroke:#D9A86C,stroke-width:2px,color:#FFFFFF;
+    classDef domain fill:#0D767A,stroke:#B9DFD9,stroke-width:1.5px,color:#FFFFFF;
+    classDef detail fill:#294B56,stroke:#6C9E9E,stroke-width:1px,color:#FFFFFF;
+
+    class ROOT central;
+    class BIO,AI,OMICS,STRUCT domain;
+    class BIO1,BIO2,AI1,AI2,OMICS1,OMICS2,STRUCT1,STRUCT2 detail;
+    linkStyle default stroke:#6D9C9A,stroke-width:1.5px;
 ```
+
+*The diagram represents research interests and methodological experience; it is not an experimental result.*
 
 ---
 
-## 📊 GitHub Analytics
+##  Academic Background & Research Outputs
+
+- **MS Bioinformatics**, NUST SINES (2024–2026). NeuroBridge thesis approved in September 2026.
+- **Research Assistant**, NUST SINES (2025–2026). Computational work involving histopathology images, gene-expression data, and machine-learning analysis.
+- **BS Biochemistry**, Abdul Wali Khan University Mardan (2020–2024). Undergraduate thesis investigating potential HIV-1 integrase inhibitors using QSAR analysis and molecular docking.
+- **CD28 structural bioinformatics study**, manuscript submitted in 2026. Acceptance or publication has not been confirmed.
+
+---
+
+##  GitHub Analytics
 
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HazratMaghaz&theme=tokyonight"
-    alt="Profile Details"
+    alt="GitHub contribution activity overview for HazratMaghaz"
   />
 </div>
 
@@ -131,12 +176,12 @@ mindmap
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HazratMaghaz&theme=tokyonight"
-    alt="GitHub Stats"
+    alt="GitHub statistics"
     height="165"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HazratMaghaz&theme=tokyonight"
-    alt="Most Commit Language"
+    alt="Most frequently committed programming languages"
     height="165"
   />
 </div>
@@ -146,36 +191,36 @@ mindmap
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HazratMaghaz&theme=tokyonight"
-    alt="Repos per Language"
+    alt="Repository languages"
     height="165"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HazratMaghaz&theme=tokyonight&utcOffset=5"
-    alt="Productive Time"
+    alt="Contribution activity over time"
     height="165"
   />
 </div>
 
 ---
 
-## 🤝 Let’s Collaborate
+##  Research & Collaboration
 
-I’m open to **research collaborations, freelance bioinformatics projects, AI/ML workflows, computational drug discovery projects, and custom scientific dashboards**.
+I welcome discussions about **PhD research opportunities, academic collaborations, and computational projects** in bioinformatics, biomedical AI, genomics, transcriptomics, and computational drug discovery.
 
 <div align="center">
   <a href="https://hazratmaghaz.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Research_Profile-Visit_Website-0D767A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit academic website" />
   </a>
-  <a href="mailto:hazratmaghaz05@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hazratmaghaz.research@gmail.com">
+    <img src="https://img.shields.io/badge/Academic_Email-Contact_Me-0D767A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
   </a>
   <a href="https://www.linkedin.com/in/hazrat-maghaz-6967b9374/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>“Building reproducible research workflows from raw data to real insight.”</i>
+  <i>Interested in reproducible, biologically grounded computational research.</i>
 </div>
